@@ -1,2 +1,2 @@
-# TcpServerConnection-in-C#-
-TcpServerConnection
+# TcpConnection-in-C#-
+TcpServer and TcpClient Connection 
