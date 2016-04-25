@@ -24,7 +24,7 @@ namespace Prueba_de_Frenos
             this.port = port;
             this.ip = ip;
         }
-        public void Conexion()
+        public void Hilo()
         {
             try
             {
